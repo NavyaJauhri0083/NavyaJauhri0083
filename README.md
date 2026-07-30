@@ -47,14 +47,13 @@ Computer Science Engineering Student | Aspiring Software Engineer | DSA & Web De
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=NavyaJauhri0083&show_icons=true&theme=tokyonight&hide_border=true" />
-  
+
   <img height="170" src="https://streak-stats.demolab.com?user=NavyaJauhri0083&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaJauhri0083&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 📂 Featured Projects
