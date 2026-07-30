@@ -1,73 +1,95 @@
-👩‍💻 About Me
+<h1 align="center">Hi 👋, I'm Navya Jauhri</h1>
+
+<h3 align="center">
+Computer Science Engineering Student | Aspiring Software Engineer | DSA & Web Development Enthusiast
+</h3>
+
+---
+
+## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE Student at **ABES Engineering College**
-- 🌱 Currently learning **Data Structures & Algorithms in C++**
-- 💻 Exploring **Web Development**
-- 🚀 Working towards **Software Engineering internships**
-- 📚 Improving problem-solving skills through coding practice
-- ⚡ Fun fact: I enjoy learning by building projects.
+- 💻 Currently learning **Data Structures & Algorithms in C++**
+- 🌱 Exploring **Web Development**
+- 🚀 Working towards **Software Engineering Internships**
+- 📚 Improving problem-solving skills through consistent coding practice
+- ⚡ Passionate about learning new technologies and building real-world projects
 
- Languages & Tools
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode" />
-</p>
+## 🛠️ Tech Stack
 
+### Languages
+- C++
+- Java
+- JavaScript
+- HTML5
+- CSS3
 
-## 📌 Currently Learning
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🌱 Currently Learning
 
 - Data Structures & Algorithms
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
 - STL in C++
-- Problem Solving
-- Git & GitHub
 - JavaScript
+- Git & GitHub
 
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavyaJauhri0083&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NavyaJauhri0083&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NavyaJauhri0083&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=NavyaJauhri0083&theme=tokyonight&hide_border=true" />
 </p>
-
-
-## 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaJauhri0083&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaJauhri0083&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 📂 Featured Projects
+
+### 🛒 Amazon Clone
+Built using **HTML, CSS & JavaScript**
+
+- Responsive UI
+- Product Cards
+- Navigation Bar
+- Interactive Components
+
+> 🚧 More exciting projects coming soon!
+
+---
 
 ## 🎯 Goals for 2026
 
 - ✅ Master DSA in C++
 - ✅ Solve 500+ coding problems
 - ✅ Build Full Stack Projects
-- ✅ Crack an Internship
+- ✅ Crack a Software Engineering Internship
 - ✅ Contribute to Open Source
 
+---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
+- 💼 LinkedIn: https://www.linkedin.com/in/navya-jauhri-a2a806314/
+- 💻 GitHub: https://github.com/NavyaJauhri0083
 
-<a href="https://www.linkedin.com/in/navya-jauhri-a2a806314/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="https://github.com/NavyaJauhri0083" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
-</p>
-
+---
 
 ## 💡 Quote
 
-> *"Consistency beats intensity. Every line of code is a step closer to becoming a better engineer."*
+> *"Consistency beats perfection. Every line of code is one step closer to becoming a better engineer."*
+
+⭐ **Thanks for visiting my profile!**
